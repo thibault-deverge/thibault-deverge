@@ -9,6 +9,7 @@
 
 <p>🌍 My goal? To merge my love for travel with my passion for coding—building cutting-edge web applications while working remotely from anywhere in the world.</p>
 
+<img style="width: 200px; heigth: 200px;" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
