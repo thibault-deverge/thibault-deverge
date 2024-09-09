@@ -1,3 +1,4 @@
+<img src="images/banner.png" alt="Banner" style="width:100%;"/>
 <h1 align="center">Hi, I'm Thibault 👋</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Web Enthusiast | Student at School 42</h3>
 
