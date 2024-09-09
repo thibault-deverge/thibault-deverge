@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thibault 👋</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Web Enthusiast | Student at School 42</h3>
 
-- 🌱 I’m currently learning about **React**, 
+- 🌱 I’m currently learning about **React**
 
 - 📫 How to reach me : **thibault.deverge@gmail.com**
 
