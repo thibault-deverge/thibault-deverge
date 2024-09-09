@@ -1,4 +1,4 @@
-<img src="images/banner-small.png" alt="Banner" style="width:100%;"/>
+<img src="images/banner.png" alt="Banner" style="width:100%;"/>
 <h3 align="center">Aspiring Full-Stack Developer | Web Enthusiast | Student at School 42</h3>
 
 <h2>👋 Hi there! I'm Thibault, a web developer with a unique journey from law to code.</h2>
