@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thibault</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Web Enthusiast | Student at School 42</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thibault-deverge&label=Profile%20views&color=0e75b6&style=flat" alt="thibault-deverge" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thibault-deverge" alt="thibault-deverge" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **thibault.deverge@gmail.com**
