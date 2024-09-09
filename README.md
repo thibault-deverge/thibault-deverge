@@ -9,12 +9,15 @@
 
 <p>🌍 My goal? To merge my love for travel with my passion for coding—building cutting-edge web applications while working remotely from anywhere in the world.</p>
 
-<p>I’m always looking for opportunities to collaborate, learn, and contribute to meaningful projects from anywhere in the world.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="mailto:thibault.deverge@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="thibault.deverge@gmail.com" height="25" width="25"/> : thibault.deverge@gmail.com</a>
+</p>
+
+<h3 align="left">Social Media:</h3>
+<p align="left">
     <a href="https://instagram.com/_thibdvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thibdvg" height="30" width="40" /></a>
-    <a href="mailto:thibault.deverge@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="thibault.deverge@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +33,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thibault-deverge&show_icons=true&locale=en&layout=compact" alt="thibault-deverge" /></p>
 
