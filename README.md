@@ -33,7 +33,12 @@ I enjoy turning complex ideas into elegant, scalable code — whether it's a dyn
 
 ---
 
-### 🚧 What I'm Working On
+### 🧠 What I’m working on :
+- **NP-Evolution MVP**: a full-stack platform built with Next.js 15, TypeScript, Tailwind CSS & Shadcn/ui, using Auth.js (Credentials Provider), Prisma + PostgreSQL and Resend for secure invitation emails.  
+- Interactive PDF booklets (HTML2PDF/react-pdf) featuring auto-save drafts, mouse-based eIDAS Level 1 signature, time-tracking per form, and role-based dashboards (Admin, Consultant, Bénéficiaire) with dynamic signed PDF report generation.  
+
+
+### 🚧 What I Worked on recently:
 
 - 🎓 A full e-learning platform built with **Next.js 15**, **TypeScript**, **Tailwind CSS**, and **PostgreSQL**.  
 - 🧪 A series of CLI tools in **TypeScript**, focused on learning architecture and testing practices.  
