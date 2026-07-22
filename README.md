@@ -1,63 +1,23 @@
-<img src="images/banner-profile.png" alt="Banner" style="width:100%;" />
+<img src="images/banner.png" alt="Design, build, ship. — Thibault Deverge" width="100%" />
 
-<h1 align="center">Thibault Deverge</h1>
-<h3 align="center">Full-Stack Developer · React & Next.js Specialist · Clean Code Advocate</h3>
+**Web developer at [elloha](https://www.elloha.com)** (SaaS for the tourism industry) **and freelance on production platforms.** I build complete applications with Next.js and TypeScript, from the interface to the database.
 
----
+The road here was not a straight line: a law degree, two and a half years in Vietnam where I wrote my first lines of code, then [École 42](https://42.fr) for the fundamentals (C, Unix, algorithms, networking). I like knowing what happens under the framework.
 
-### 👋 About Me
+### Proof over promises
 
-Hi! I’m **Thibault**, a developer with a unique path — from law school to web development.  
-After completing a law degree and spending time abroad, I returned to France to join **School 42**,  
-where I built strong foundations in programming, starting with C and moving into full-stack development.
+- **[portfolio-2026](https://github.com/thibault-deverge/portfolio-2026)** · my portfolio as a product: an animation-first one-pager stitched together by a red thread drawn on scroll, plus an AI concierge (⌘K) built on Claude with streaming, tool use and Redis rate limiting. [See it live](https://thibault-deverge.vercel.app/en), and ask the palette anything about me.
+- **NP-Evolution** · a skills-assessment platform designed, built and shipped solo for a real client: interactive PDF booklets, eIDAS level 1 signatures implemented from scratch, AI-assisted test interpretation. In production since August 2025, publicly recommended by the client. Private repo; [the full story is on the portfolio](https://thibault-deverge.vercel.app/en).
+- **At elloha** · features shipped end to end on a back-office used daily by thousands of tourism professionals: complex React / Material UI screens, i18n in five languages, critical paths where a bug costs real money.
 
-I now focus on building modern, user-friendly applications with **React**, **Next.js**, **Node.js**, and **TypeScript**.  
-I enjoy turning complex ideas into elegant, scalable code — whether it's a dynamic frontend or a performant API.
+### From École 42, in C and beyond
 
----
+[ft_transcendence](https://github.com/thibault-deverge/42-Cursus__Ft-Transcendence) · real-time multiplayer web app (final team project) &nbsp;—&nbsp; [minishell](https://github.com/thibault-deverge/42-Cursus__Minishell) · a Unix shell rebuilt in C &nbsp;—&nbsp; [cub3d](https://github.com/thibault-deverge/42-Cursus__Cub3d) · a raycasting engine à la Wolfenstein 3D
 
-### 🛠 Tech Stack
+### How I work
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-</p>
+The need first: question, reframe, sketch before writing code. Then small steps, constant feedback, and the discipline to finish. Law school gave me the rigor; 42 taught me how to learn; production keeps me honest.
 
----
+### Contact
 
-### 🧠 What I’m working on :
-- **NP-Evolution MVP**: a full-stack platform built with Next.js 15, TypeScript, Tailwind CSS & Shadcn/ui, using Auth.js (Credentials Provider), Prisma + PostgreSQL and Resend for secure invitation emails.  
-- Interactive PDF booklets (HTML2PDF/react-pdf) featuring auto-save drafts, mouse-based eIDAS Level 1 signature, time-tracking per form, and role-based dashboards (Admin, Consultant, Bénéficiaire) with dynamic signed PDF report generation.  
-
-
-### 🚧 What I Worked on recently:
-
-- 🎓 A full e-learning platform built with **Next.js 15**, **TypeScript**, **Tailwind CSS**, and **PostgreSQL**.  
-- 🧪 A series of CLI tools in **TypeScript**, focused on learning architecture and testing practices.  
-- 🧠 AI agents using **Google’s Gemini API**, to better understand LLM tooling and integration.  
-- 🦫 Learning **Golang** step-by-step, focusing on idiomatic syntax, slices, error handling, and building CLI tools.
-
----
-
-### 💡 Values & Approach
-
-- I value **clarity**, **reliability**, and **continuous learning**.  
-- I like to write code that’s easy to maintain and enjoyable to read.  
-- I believe in working collaboratively, asking good questions, and staying curious.
-
----
-
-### 📫 Let’s connect
-
-- 🌐 [Portfolio](https://thibault-deverge.vercel.app/en)
-- 📩 [thibault.deverge@gmail.com](mailto:thibault.deverge@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thibault-deverge/)  
-- 📸 [Instagram](https://instagram.com/_thibdvg)
+[Portfolio](https://thibault-deverge.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/thibault-deverge/) · [thibault.deverge@gmail.com](mailto:thibault.deverge@gmail.com)
